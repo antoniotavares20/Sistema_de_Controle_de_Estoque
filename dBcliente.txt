@@ -1,0 +1,11 @@
+0;Maria;5739935433;89933443;Rua uniq;q 333 l 444;7844345;Burit;Pariz;GO
+1;Atonio;0474724193;991323432;Rua I;quadra 122 l 15;74944111;Buriti;Aparecida;GO
+2;Juliet;0474334193;991323434;Rua B;quadra 922 l 22;74332244;Garavelo;Goiania;DF
+3;Juliet;0347472419T;993431242;Rua C;quadra 232 l 32;72244225;Sul B;Macanbira;MG
+4;Juliet;8474724195;991435442;Rua Y;quadra 332 l 63;76322333;Mar fim;Salvador;BH
+5;Juliana;03332444;9992224;rua das neves;q 22;7499221;buriti;Pariz;GO
+6;Tango;0332234443;83322433;Av DF;Esquina 3;7332233;Mike;Para;PA
+7;Agua;434442234;922442222;Arle;Brasilia;74332432;atlas;Sul;GO
+8;Iogut;4933824443;9433234;Q22 l3;casa 5;733324;burito;Paris;GO
+9;anotnio;tavares;asdf;234;333;333;333;333;333
+10;1;1;1;1;1;1;1;1;1

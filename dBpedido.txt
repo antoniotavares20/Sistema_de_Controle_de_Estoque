@@ -1,0 +1,4 @@
+0;Atonio;1;feijao;1;1;14;7;17
+1;Juliet;4;tomate;5;20;14;7;17
+2;Juliet;4;Notebook;7;40;14;7;17
+4792417;Juliet;2;tomate;5;30;14;7;17
